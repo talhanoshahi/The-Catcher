@@ -10,7 +10,7 @@ Initially, OpenGL was chosen as the graphic library but the project quickly shif
 SFML due to the difficulty to learn OpenGL and the limited time we had. So SFML is the main
 input/output and drawing library for this project.
 
-**Working: **
+**Working:** 
   The Catcher is a simple game in which some items having different score points are dropped
 from the screen height limit and you have to catch them using a board lying at the bottom thus
 the name The Catcher. A successful catch results in the increase in score and a drop results in a
